@@ -1,0 +1,12 @@
+{
+    "name": "docker-compose-example",
+    "version": "1.0.0",
+    "description": "A simple Node.js app using Docker Compose",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
